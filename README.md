@@ -1,1 +1,1 @@
-# CMPT391Project2
+# CMPT391 Project 2
